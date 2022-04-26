@@ -33,7 +33,7 @@ Your final push should include this Rmd file (with your answers) together with t
 `Lab_2_FamilyName1_Name1_and_FamilyName2_Name2.Rmd/html`      
   
 For plots and graphs, make sure you add proper titles, labels, and legends/colors (if you have more than 1 variable on the y-axes). Your plots should clearly convey the information you are trying to communicate.  
-Please write your code in a clear and concise way, with an emphasis on reproducibility. Use markdown to provide explanations before/after the code blocks. 
+Please write your code in a clear and concise way, with an emphasis on reproducibility. Use markdown to provide explanations before/after the code blocks. d
 
 <br/><br/>
   
