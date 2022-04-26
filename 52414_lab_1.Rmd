@@ -7,7 +7,7 @@ output: html_document
 
 # *Lab 1: Basic Data Wrangling*  
 <br/><br/>  
-  
+
 
 **Contents**:  
 
@@ -113,6 +113,7 @@ Next (considering all countries), plot the % of population over 65 vs. log of GD
 ```{r}
 #loading the `eco_data`:
 eco_data <- read.csv(url("https://raw.githubusercontent.com/DataScienceHU/DataAnalysisR_2020/master/data/economic_data.csv"))
+x = 1
 
 ```
 
